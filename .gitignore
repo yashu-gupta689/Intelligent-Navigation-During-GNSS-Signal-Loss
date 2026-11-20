@@ -1,10 +1,29 @@
+
+# Python
 venv/
+.venv/
 __pycache__/
 .pytest_cache/
+*.pyc
+*.pyo
+
+# Node.js
 node_modules/
 frontend/node_modules/
 frontend/dist/
+
+# Environment variables
 .env
-*.pyc
-*.pyo
+.env.*
+!.env.example
+
+# Logs
 *.log
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db

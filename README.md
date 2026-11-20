@@ -1,4 +1,4 @@
-# IDR NAV — Intelligent Dead Reckoning & GNSS Fusion (SIH Edition)
+# Intelligent Navigation During GNSS Signal Loss
 
 [![Build Status](https://img.shields.io/badge/build-passing-brightgreen)](https://github.com)
 [![Python](https://img.shields.io/badge/python-3.10%2B-blue)](https://python.org)

@@ -10,7 +10,7 @@ A complete, production-grade software prototype and benchmark suite designed for
 
 ---
 
-## 🌟 Key Features (SIH Enhancements)
+## 🌟 Key Features 
 - **One-Click "RUN SIH DEMO" (`POST /api/evaluation/run`)**: Automated execution sequence demonstrating GNSS available $\rightarrow$ GNSS outage $\rightarrow$ AI DR $\rightarrow$ EKF $\rightarrow$ NHC $\rightarrow$ Map matching $\rightarrow$ GNSS recovery $\rightarrow$ Fusion correction $\rightarrow$ Final performance report with status banner `"GNSS outage successfully handled"`. Includes a live 10-stage execution progress indicator.
 - **OpenStreetMap MapProvider Abstraction**: OpenStreetMap-compatible tile layer (`https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png`) requiring zero external API keys (`MAPBOX_TOKEN`, `CARTO_API_KEY`, `GOOGLE_MAPS_API_KEY`). Displays vehicle position marker and 6 color-coded trajectory polylines with interactive legend.
 - **Scientific Integrity & Mode Separation**:
